@@ -82,4 +82,4 @@ spec:
     - http01:
         ingress:
           class: nginx
-{% endif -%}
+{%- endif %}
